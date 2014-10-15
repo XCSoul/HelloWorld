@@ -1,0 +1,8 @@
+StartNode = require("myClass.StartNode")
+MainScene = require("app.scenes.MainScene")
+GameScene = require("app.scenes.GameScene")
+TouchLayer = require("myClass.TouchLayer")
+Goods = require("myClass.Goods")
+Hero = require("myClass.Hero")
+Hook = require("myClass.Hook")
+ShopScene = require("app.scenes.ShopScene")
